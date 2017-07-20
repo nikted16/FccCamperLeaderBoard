@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.btn{
+  margin : 10px;
+}
+
+body{
+  margin:30px;
+  background: black;
+  padding: 5px;
+  z-index: -2;
+}
